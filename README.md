@@ -98,9 +98,6 @@ This is a simple web application built with Node.js, Express, and PostgreSQL tha
   - Clicking "Add Family Member" will navigate to a form where you can input the name and favorite color of the new family member.
   - After submitting, you will be redirected back to the home page with the updated list of family members.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
